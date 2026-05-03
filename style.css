@@ -715,3 +715,12 @@ p {
     font-weight: 600;
     color: white;
 }
+
+.price-subheading {
+    color: var(--primary-green);
+    font-size: 0.95rem;
+    margin-bottom: 0.5rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
